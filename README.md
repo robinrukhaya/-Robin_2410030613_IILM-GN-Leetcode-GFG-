@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/robinrukhaya/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -200,4 +201,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

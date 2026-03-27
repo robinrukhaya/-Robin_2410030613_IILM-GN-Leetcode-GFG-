@@ -1,51 +1,44 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        
-        vector<vector<pair<int,int>>> adj(n);
+        vector<vector<pair<long long, long long>>> adj(n);
+
         for (auto& road : roads) {
-            int u = road[0], v = road[1], w = road[2];
-            adj[u].push_back({v, w});
-            adj[v].push_back({u, w});
+            int u = road[0];
+            int v = road[1];
+            int t = road[2];
+            adj[u].push_back({v,t});
+            adj[v].push_back({u,t});
         }
-        
-        int mod = 1e9 + 7;
-
         vector<long long> dist(n, LLONG_MAX);
-        vector<int> ways(n, 0);
-
+        vector<long long> ways(n, 0);
         dist[0] = 0;
         ways[0] = 1;
 
-        priority_queue<pair<long long,int>,
-                       vector<pair<long long,int>>,
-                       greater<pair<long long,int>>> pq;
+        priority_queue<pair<long long,long long>,vector<pair<long long,long long>>,
+            greater<pair<long long,long long>>> pq;
+        pq.push({0,0});
 
-        pq.push({0, 0});
+        int mod = 1e9 + 7;
 
         while (!pq.empty()) {
-            auto [d, node] = pq.top();
+            auto [d,node] = pq.top();
             pq.pop();
 
-            if (d > dist[node]) continue;
+            for (auto [neighbor,time] : adj[node]) {
+                long long newDist = d + time;
+               if (newDist < dist[neighbor])  {
+                dist[neighbor] = newDist;
+                ways[neighbor] = ways[node];
+                pq.push({newDist, neighbor});
 
-            for (auto [neighbor, weight] : adj[node]) {
-                long long newDist = d + weight;
-
-                if (newDist < dist[neighbor]) {
-                    dist[neighbor] = newDist;
-                    ways[neighbor] = ways[node];
-                    pq.push({newDist, neighbor});
-                }
-                else if (newDist == dist[neighbor]) {
-                    ways[neighbor] = (ways[neighbor] + ways[node]) % mod;
-                }
+               }
+               else if (newDist == dist[neighbor]) {
+                ways[neighbor] = (ways[neighbor]+ways[node]) % mod;
+               }
             }
-        }
 
+        }
         return ways[n-1];
     }
 };

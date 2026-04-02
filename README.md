@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1584-min-cost-to-connect-all-points) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/robinrukhaya/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/robinrukhaya/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
+| [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |

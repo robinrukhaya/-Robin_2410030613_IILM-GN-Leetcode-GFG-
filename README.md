@@ -148,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
 | [3765-complete-prime-number](https://github.com/robinrukhaya/Leetcode/tree/master/3765-complete-prime-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |

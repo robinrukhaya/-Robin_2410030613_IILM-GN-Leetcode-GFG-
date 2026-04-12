@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/robinrukhaya/Leetcode/tree/master/0509-fibonacci-number) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1192-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

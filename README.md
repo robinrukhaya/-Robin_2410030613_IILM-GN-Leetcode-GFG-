@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0746-min-cost-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
+| [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1463-cherry-pickup-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
+| [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/robinrukhaya/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
 |  |

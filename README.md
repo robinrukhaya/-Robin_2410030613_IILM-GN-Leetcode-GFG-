@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2833-furthest-point-from-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
 | ------- |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0062-unique-paths) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0746-min-cost-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0409-longest-palindrome) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Database
 |  |
 | ------- |

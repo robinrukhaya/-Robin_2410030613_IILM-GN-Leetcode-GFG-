@@ -1,28 +1,22 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        int n  = nums.size();
-        vector<int> dp(n,-1);
-
-        function<int(int)> solve = [&](int i ) {
-            if (dp[i] != -1) return dp[i];
-
-            int max_len = 1;
-
-            for (int j = 0;j <i;j++) {
+        int n = nums.size();
+        if (n == 0) return 0;
+        vector<int> dp(n,1);
+        int max_len = 1;
+        for (int i  = 1;i<n;i++ ){
+            for(int j  = 0;j <i;j++) {
                 if (nums[j] < nums[i]) {
-                    max_len = max(max_len,1+solve(j));
+                    if(dp[j] + 1 > dp[i]) {
+                        dp[i] = dp[j] +1;
+                    }
                 }
             }
-            return dp[i] = max_len;
-        };
-
-        int result = 0;
-        for (int i = 0;i <n;i++) {
-            result = max(result,solve(i));
-
+            if (dp[i] > max_len) {
+                max_len = dp[i];
+            }
         }
-        return result;
-        
+        return max_len;
     }
 };

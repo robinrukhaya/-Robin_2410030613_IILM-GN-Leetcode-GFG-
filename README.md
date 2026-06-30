@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1463-cherry-pickup-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1584-min-cost-to-connect-all-points) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/robinrukhaya/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
@@ -282,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/robinrukhaya/Leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/3121-count-the-number-of-special-characters-ii) |

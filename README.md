@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0409-longest-palindrome) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/robinrukhaya/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/robinrukhaya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |

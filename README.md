@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0125-valid-palindrome) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/robinrukhaya/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |

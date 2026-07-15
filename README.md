@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0567-permutation-in-string) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
@@ -426,8 +431,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/robinrukhaya/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0973-k-closest-points-to-origin) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/robinrukhaya/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0973-k-closest-points-to-origin) |

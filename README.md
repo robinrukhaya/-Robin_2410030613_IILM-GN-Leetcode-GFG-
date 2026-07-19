@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0409-longest-palindrome) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |
 | ------- |
@@ -466,4 +468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

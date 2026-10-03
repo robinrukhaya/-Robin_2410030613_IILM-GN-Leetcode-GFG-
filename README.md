@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1463-cherry-pickup-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
+| [1051-height-checker](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1051-height-checker) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/robinrukhaya/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
@@ -511,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

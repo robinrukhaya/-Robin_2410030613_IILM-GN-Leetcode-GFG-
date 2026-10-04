@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1260-shift-2d-grid) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1463-cherry-pickup-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1260-shift-2d-grid) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1926-nearest-exit-from-entrance-in-maze) |

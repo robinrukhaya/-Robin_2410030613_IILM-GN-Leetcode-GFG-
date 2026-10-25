@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0443-string-compression) |

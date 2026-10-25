@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 ## String
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1051-height-checker) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

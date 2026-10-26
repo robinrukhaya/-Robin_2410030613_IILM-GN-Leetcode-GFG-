@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/robinrukhaya/Leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/robinrukhaya/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/robinrukhaya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/robinrukhaya/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/robinrukhaya/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0973-k-closest-points-to-origin) |
@@ -531,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1051-height-checker) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |

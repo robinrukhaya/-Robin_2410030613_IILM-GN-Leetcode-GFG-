@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |

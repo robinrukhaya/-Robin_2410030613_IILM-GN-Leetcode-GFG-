@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0973-k-closest-points-to-origin) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/robinrukhaya/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1020-number-of-enclaves) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/robinrukhaya/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1048-longest-string-chain) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/robinrukhaya/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/robinrukhaya/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1920-build-array-from-permutation) |

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/robinrukhaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/1260-shift-2d-grid) |

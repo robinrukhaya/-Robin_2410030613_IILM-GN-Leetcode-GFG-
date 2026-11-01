@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0867-transpose-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0867-transpose-matrix) |

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [0661-image-smoother](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0661-image-smoother) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0721-accounts-merge) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/robinrukhaya/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/robinrukhaya/Leetcode-GFG/tree/master/0827-making-a-large-island) |
